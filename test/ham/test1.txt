@@ -1,0 +1,7 @@
+Subject: Update on AI Project Progress
+
+Hey team,
+Just wanted to give a quick update on our AI project. I finished integrating the YOLOv8 model into the detection module and it’s working fine on the test dataset. We still need to work on re-identification and tracking. Let’s meet this Thursday after class to divide tasks. Please come with your parts ready so we can merge them into the final report. I’ve uploaded the current codebase to GitHub – check the dev branch.
+Cheers,
+Anika
+

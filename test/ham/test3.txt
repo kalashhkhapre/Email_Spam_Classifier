@@ -1,0 +1,8 @@
+Subject: Reminder: Project Stand-Up Tomorrow @ 10 AM
+
+Hi team,
+This is a reminder that we’ll be having our daily stand-up tomorrow at 10:00 AM sharp. We’ll review progress on the sprint goals and discuss any blockers. Please update your Jira tickets before the call. If anyone has leave planned this week, let me know beforehand.
+Zoom link: [link]
+Thanks,
+Rohit Kapoor
+Engineering Manager | NextGen Systems

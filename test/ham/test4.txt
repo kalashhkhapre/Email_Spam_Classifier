@@ -1,0 +1,18 @@
+Subject: 🔥 Top 5 Open-Source Projects This Week (April Edition)
+
+Hey Devs,
+Hope your week’s off to a good start. Here are five trending open-source projects we think you’ll love:
+
+LangChain – LLM orchestration framework
+
+Zed Editor – Insanely fast Rust-based code editor
+
+Turbopack – New JS bundler by Vercel
+
+DuckDB – Analytics database on steroids
+
+Bun – JavaScript runtime that’s crushing Node
+Check them out, contribute if you can, and let us know what you’re working on!
+Happy coding,
+— Team DevStream
+
